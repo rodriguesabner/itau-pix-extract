@@ -38,7 +38,7 @@ remotamente, o projeto é 100% open source e você pode conferir o código fonte
 
 ### Resultado
 
-O resultado será um arquivo .csv com o extrato do pix. 
+O resultado será um arquivo .csv com o extrato do pix RECEBIDO. Os valores enviados não serão constados.
 
 ### Proposta do projeto
 
