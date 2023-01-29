@@ -16,13 +16,13 @@ git clone https://github.com/rodriguesabner/itau-pix-extract.git
 
 cd itau-pix-extract
 
-yarn dev
+yarn install
 ```
 
 ### Execução
 
 ```bash
-yarn start
+yarn dev
 ```
 
 ### Configuração
