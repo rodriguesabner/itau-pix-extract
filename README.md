@@ -16,7 +16,7 @@ git clone https://github.com/rodriguesabner/itau-pix-extract.git
 
 cd itau-pix-extract
 
-yarn install
+yarn dev
 ```
 
 ### Execução
